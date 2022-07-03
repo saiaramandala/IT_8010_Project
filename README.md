@@ -43,7 +43,6 @@ The run_models.ipynb notebook contains a demo of how code from the two Python fi
 ## Acknowledgments
 
 * [othneildrew - README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-* [LSE Department of Statistics](https://www.lse.ac.uk/statistics)
 * [Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 * [Information Leaks in Kaggle Fake News Dataset](https://www.kaggle.com/code/mosewintner/5-data-leaks-100-acc-1-word-99-6-acc?scriptVersionId=45283074)
 
