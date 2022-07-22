@@ -42,7 +42,7 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 
 Gated recurrent units (GRUs) are a gating mechanism in recurrent neural networks, introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a forget gate, but has fewer parameters than LSTM, as it lacks an output gate. GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs have been shown to exhibit better performance on certain smaller and less frequent datasets.
 
-### spaCy
+### SpaCy
 
 spaCy is an open-source software library for advanced natural language processing, written in the programming languages Python and Cython. The library is published under the MIT license and its main developers are Matthew Honnibal and Ines Montani, the founders of the software company Explosion. Unlike NLTK, which is widely used for teaching and research, spaCy focuses on providing software for production usage. spaCy also supports deep learning workflows that allow connecting statistical models trained by popular machine learning libraries like TensorFlow, PyTorch or MXNet through its own machine learning library Thinc. Using Thinc as its backend, spaCy features convolutional neural network models for part-of-speech tagging, dependency parsing, text categorization and named entity recognition (NER). Prebuilt statistical neural network models to perform these tasks are available for 17 languages, including English, Portuguese, Spanish, Russian and Chinese, and there is also a multi-language NER model. Additional support for tokenization for more than 65 languages allows users to train custom models on their own datasets as well.
 
@@ -51,6 +51,19 @@ spaCy is an open-source software library for advanced natural language processin
 TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. TensorFlow was developed by the Google Brain team for internal Google use in research and production. The initial version was released under the Apache License 2.0 in 2015. Google released the updated version of TensorFlow, named TensorFlow 2.0, in September 2019. TensorFlow can be used in a wide variety of programming languages, most notably Python, as well as Javascript, C++, and Java. This flexibility lends itself to a range of applications in many different sectors.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### GRU Spacy Embedding
+
+<img width="1067" alt="Spacy Embedding" src="https://user-images.githubusercontent.com/30325044/180579501-ffa8b159-0a7f-436a-82c5-6fa759c8801d.png">
+
+### GRU Keras Embedding
+
+<img width="944" alt="Keras Embedding" src="https://user-images.githubusercontent.com/30325044/180579546-3fbff3ec-87af-44cd-8951-948e5c87b9b6.png">
+
+### Keras vs SpaCy Accuracy Scores
+
+<img width="1083" alt="Keras Vs Spacy Accuracy scores" src="https://user-images.githubusercontent.com/30325044/180579614-02529f53-5c06-4c58-9d50-69f1ca6eb5ae.png">
+
 
 ### Built With
 
